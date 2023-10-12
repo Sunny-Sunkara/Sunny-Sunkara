@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Data Analysis.
 - 🌱 I’m currently learning Machine Learning and Data Science.
 - 💞️ I’m looking to collaborate on Data Science Projects and SDLC projects.
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/nitinsai-sunkara-165785214
 
 <!---
 Sunny-Sunkara/Sunny-Sunkara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
