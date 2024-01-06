@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sunny-Sunkara
+- 👋 Hi, I’m @Nitin Sai-Sunkara
 - 👀 I’m interested in Software Development and Data Analysis.
 - 🌱 I’m currently learning Machine Learning and Data Science.
 - 💞️ I’m looking to collaborate on Data Science Projects and SDLC projects.
